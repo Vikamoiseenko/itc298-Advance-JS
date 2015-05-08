@@ -1,0 +1,16 @@
+body {
+font-family: Helvetica,
+}
+nav {
+  padding: 10px 0;
+}
+aside {
+  float: left;
+}
+a.popup{
+  font-style: italic;
+}
+nav a {
+  text-decoration:none;
+  border-bottom: 1px dotted black;
+}

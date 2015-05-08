@@ -1,0 +1,5 @@
+[
+  {"name": "ITC298", "url":"itc298", "instruction": "SCC" },
+  { "name": "ITC260", "url":"itc260", "instruction": "UW"},
+  {"name": "ITC250", "url":"itc250", "instruction": "SCC"}
+]
