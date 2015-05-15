@@ -1,0 +1,11 @@
+/*src/css/style.css */
+
+body{
+  transition: transform 1s linear;
+  /*transform: rotateZ(30deg); */
+  box-sizing: border-box;
+  display: flex;
+  flex: 1;
+  transform-origin: 50% 50%;
+  color: red;
+}
