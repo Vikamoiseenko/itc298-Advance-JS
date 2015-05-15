@@ -1,0 +1,20 @@
+<h2>Descriptions</h2>
+<ul>
+  Title:
+  {{feature.title}}
+  <br>
+    Time:
+    <ul>
+      {{#feature.times}}
+      <li> {{.}}
+      {{/feature.times}}
+    </ul>
+    Starring
+    <ul>
+      {{#feature.starring}}
+      <li> {{.}}
+        {{/feature.starring}}
+    </ul>
+    <br>
+    Length: {{feature.length}}
+</ul>
